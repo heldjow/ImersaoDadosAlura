@@ -6,7 +6,7 @@ Projeto construído durante a imersão em dados com python pela Alura. Nesse pro
 ## 📖 Sumário
 
 1. [✨ Funcionalidades ](#-funcionalidades)
-2. [🛠️ Instalação local](#-instalacao-local)
+2. [🛠️ Instalação local](#-instalaçao-local)
 3. [⚡ Como rodar na sua máquina](#-como-rodar-na-sua-máquina)
 
 
