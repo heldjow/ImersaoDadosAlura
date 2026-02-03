@@ -26,29 +26,31 @@ Projeto construído durante a imersão em dados com python pela Alura. Nesse pro
 
 1. Crie o ambiente virtual
 
-python3 -m venv venv
+```python3 -m venv venv```
 
 2. Ative o ambiente virtual em Windonws
 
-.venv\Scripts\Activate
+```.venv\Scripts\Activate```
 
 Em Linux/MacOS
 
-source .venv/bin/activate
+```source .venv/bin/activate```
 
-3. Criar um arquivo chamado requirements.txt e escreva o seguinte texto nele:
+3. Crie um arquivo chamado requirements.txt e escreva o seguinte texto nele:
 
+```
 pandas==2.2.3
 streamlit==1.44.1
-plotly==5.24.1
+plotly==5.24.1]
+```
 
 4. Instale as bibliotecas nescessárias
 
-pip -install -r requirements
+```pip -install -r requirements```
 
-5. Rode o código no ambiente virtual
+5. Execute o código no ambiente virtual
 
-streamlit run app.py
+```streamlit run app.py```
 
 6. Realize o deploy na nuvem 
 
@@ -57,3 +59,7 @@ Acesse o site do streamlit e associe a sua conta do github em deploy Free (Login
 Create app (deploy a public app from github)
 
 OBS: Nescessário ter Python e um editor de código na sua máquina.
+
+[Clique aqui para instalar o python](https://www.python.org/downloads/)
+
+[Clique aqui para instalar o VsCode](https://code.visualstudio.com/download)
